@@ -1,0 +1,13 @@
+	<button className={styles.button6} onClick={connectWalletHandler}>{connButtonText}</button>
+			<div className={styles.walletCard}>
+			<div>
+				<h3>Address: {defaultAccount}</h3>
+			</div>
+
+			<div>
+				<h3>{tokenName} Balance: {balance}</h3>
+			</div>
+
+			{errorMessage}
+		</div>
+		<Interactions contract = {contract}/>
