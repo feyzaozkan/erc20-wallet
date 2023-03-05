@@ -1,8 +1,8 @@
 {
-  "homepage": "https://feyzaozkan.github.io/",
+  "homepage": "https://feyzaozkan.github.io/erc20-wallet",
   "name": "erc20-wallet",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
