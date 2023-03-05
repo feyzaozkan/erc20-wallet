@@ -1,0 +1,13 @@
+git init
+//repodaki seyin kopyası   ,,,,böylece proje deploy edildi.
+
+//GITHUB PAGES PART
+
+npm install gh-pages --save-dev    YA DA yarn add -D gh-pages
+//bundan sonra package.json da degisiklikler yapıyor.
+git add .
+git commit -m "Deployed website"
+git push
+npm run deploy
+
+
