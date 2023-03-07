@@ -11,3 +11,17 @@ git push
 npm run deploy
 
 
+///INSİDE APP.JS
+ReactDOM.render(
+  <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <App />
+  </BrowserRouter>,
+  document.getElementById('root')
+);
+
+//INSIDE PACKAGE
+"homepage": "https://feyzaozkan.github.io/erc20-wallet",
+ "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
+
+
