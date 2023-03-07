@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       
-        <Routes  >
+        <Routes  basename={process.env.PUBLIC_URL}>
           <Route path="/" element={<Home/>}  />
           <Route path="/wallet" element={<Wallet/>}  />
           <Route path="/about" element={<About/>}  />
