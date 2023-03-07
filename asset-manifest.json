@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/erc20-wallet/static/css/main.b5828c31.css",
-    "main.js": "/erc20-wallet/static/js/main.6ee12da8.js",
+    "main.js": "/erc20-wallet/static/js/main.46842b10.js",
     "static/media/background.png": "/erc20-wallet/static/media/background.43f9173fa61258a2c0fd.png",
     "static/media/home.png": "/erc20-wallet/static/media/home.23f00fb446aa912ac6f4.png",
     "static/media/connectWallet.png": "/erc20-wallet/static/media/connectWallet.31f11e693147de5f02b8.png",
     "static/media/logo.png": "/erc20-wallet/static/media/logo.38554143060b44c366ec.png",
     "index.html": "/erc20-wallet/index.html",
     "main.b5828c31.css.map": "/erc20-wallet/static/css/main.b5828c31.css.map",
-    "main.6ee12da8.js.map": "/erc20-wallet/static/js/main.6ee12da8.js.map"
+    "main.46842b10.js.map": "/erc20-wallet/static/js/main.46842b10.js.map"
   },
   "entrypoints": [
     "static/css/main.b5828c31.css",
-    "static/js/main.6ee12da8.js"
+    "static/js/main.46842b10.js"
   ]
 }
